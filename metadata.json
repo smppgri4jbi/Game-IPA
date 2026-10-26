@@ -1,0 +1,6 @@
+{
+  "name": "BioRantai - Game Sambung Kata Makhluk Hidup & Benda Mati",
+  "description": "Game edukatif sambung kata seru berbahasa Indonesia dengan tema Makhluk Hidup (Biotik) dan Makhluk Mati / Benda Tak Hidup (Abiotik).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
